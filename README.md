@@ -11,5 +11,3 @@ Lab 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg
 Lab 5 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Numerical-PDEs/blob/master/NeumannElliptic.ipynb)
 
 Lab 6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Numerical-PDEs/blob/master/FEM.ipynb)
-
-Lab 7 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KOS-UJ/Numerical-PDEs/blob/master/FEM_MESH.ipynb)
